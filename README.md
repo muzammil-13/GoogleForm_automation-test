@@ -107,6 +107,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## **Disclaimer**
 
 This tool is intended for ethical purposes such as testing or generating mock data. Do not use it for spamming, violating terms of service, or any unethical activities.
-```
-
-Feel free to adapt this README based on any additional details or project-specific requirements. Let me know if you'd like help formatting it for GitHub or adding more sections!
